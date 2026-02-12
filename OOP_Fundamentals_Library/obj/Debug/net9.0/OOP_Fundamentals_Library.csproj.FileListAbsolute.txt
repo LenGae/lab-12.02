@@ -1,0 +1,11 @@
+\\iscsi\profstud\LeymanSE\Desktop\123\OOP_Fundamentals_Library\bin\Debug\net9.0\OOP_Fundamentals_Library.deps.json
+\\iscsi\profstud\LeymanSE\Desktop\123\OOP_Fundamentals_Library\bin\Debug\net9.0\OOP_Fundamentals_Library.dll
+\\iscsi\profstud\LeymanSE\Desktop\123\OOP_Fundamentals_Library\bin\Debug\net9.0\OOP_Fundamentals_Library.pdb
+\\iscsi\profstud\LeymanSE\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.GeneratedMSBuildEditorConfig.editorconfig
+\\iscsi\profstud\LeymanSE\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.AssemblyInfoInputs.cache
+\\iscsi\profstud\LeymanSE\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.AssemblyInfo.cs
+\\iscsi\profstud\LeymanSE\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\LeymanSE\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.dll
+\\iscsi\profstud\LeymanSE\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net9.0\refint\OOP_Fundamentals_Library.dll
+\\iscsi\profstud\LeymanSE\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.pdb
+\\iscsi\profstud\LeymanSE\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net9.0\ref\OOP_Fundamentals_Library.dll

@@ -1,0 +1,11 @@
+C:\Users\ropba\Desktop\123\OOP_Fundamentals_Library\bin\Debug\net10.0\OOP_Fundamentals_Library.deps.json
+C:\Users\ropba\Desktop\123\OOP_Fundamentals_Library\bin\Debug\net10.0\OOP_Fundamentals_Library.dll
+C:\Users\ropba\Desktop\123\OOP_Fundamentals_Library\bin\Debug\net10.0\OOP_Fundamentals_Library.pdb
+C:\Users\ropba\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net10.0\OOP_Fundamentals_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ropba\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net10.0\OOP_Fundamentals_Library.AssemblyInfoInputs.cache
+C:\Users\ropba\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net10.0\OOP_Fundamentals_Library.AssemblyInfo.cs
+C:\Users\ropba\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net10.0\OOP_Fundamentals_Library.csproj.CoreCompileInputs.cache
+C:\Users\ropba\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net10.0\OOP_Fundamentals_Library.dll
+C:\Users\ropba\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net10.0\refint\OOP_Fundamentals_Library.dll
+C:\Users\ropba\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net10.0\OOP_Fundamentals_Library.pdb
+C:\Users\ropba\Desktop\123\OOP_Fundamentals_Library\obj\Debug\net10.0\ref\OOP_Fundamentals_Library.dll
