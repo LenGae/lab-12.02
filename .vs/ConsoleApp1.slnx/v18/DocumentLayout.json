@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ropba\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A17FA76-85A5-FE4E-EACB-9CEA40CB893E}|..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|c:\\users\\ropba\\desktop\\123\\oop_fundamentals_library\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A17FA76-85A5-FE4E-EACB-9CEA40CB893E}|..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|c:\\users\\ropba\\desktop\\123\\oop_fundamentals_library\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A17FA76-85A5-FE4E-EACB-9CEA40CB893E}|..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|c:\\users\\ropba\\desktop\\123\\oop_fundamentals_library\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A17FA76-85A5-FE4E-EACB-9CEA40CB893E}|..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|c:\\users\\ropba\\desktop\\123\\oop_fundamentals_library\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ropba\\source\\repos\\consoleapp1\\consoleapp1\\consoleapp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A17FA76-85A5-FE4E-EACB-9CEA40CB893E}|..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|c:\\users\\ropba\\desktop\\123\\oop_fundamentals_library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A17FA76-85A5-FE4E-EACB-9CEA40CB893E}|..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|c:\\users\\ropba\\desktop\\123\\oop_fundamentals_library\\payrollsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A17FA76-85A5-FE4E-EACB-9CEA40CB893E}|..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|c:\\users\\ropba\\desktop\\123\\oop_fundamentals_library\\ipayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPayable.cs",
+              "DocumentMoniker": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\IPayable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\IPayable.cs",
+              "ToolTip": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\IPayable.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\IPayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:39:41.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\Person.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\Person.cs",
+              "ToolTip": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\Person.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:28:57.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PayrollSystem.cs",
+              "DocumentMoniker": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\PayrollSystem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\PayrollSystem.cs",
+              "ToolTip": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\PayrollSystem.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\PayrollSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:17:09.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\Manager.cs",
+              "ToolTip": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\Manager.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:17:09.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\Employee.cs",
+              "ToolTip": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\Employee.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:17:08.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\Customer.cs",
+              "ToolTip": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\Customer.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:06:25.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\ReportService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\ReportService.cs",
+              "ToolTip": "C:\\Users\\ropba\\Desktop\\123\\OOP_Fundamentals_Library\\ReportService.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\123\\OOP_Fundamentals_Library\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:06:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleApp1.cs",
+              "DocumentMoniker": "C:\\Users\\ropba\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.cs",
+              "ToolTip": "C:\\Users\\ropba\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.cs",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:06:08.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

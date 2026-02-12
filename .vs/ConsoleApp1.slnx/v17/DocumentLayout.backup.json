@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LeymanSE\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF82EFA-4C42-2E7F-A597-1B50A54C405D}|\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|\\\\iscsi\\profstud\\leymanse\\desktop\\123\\oop_fundamentals_library\\payrollsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF82EFA-4C42-2E7F-A597-1B50A54C405D}|\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|\\\\iscsi\\profstud\\leymanse\\desktop\\123\\oop_fundamentals_library\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF82EFA-4C42-2E7F-A597-1B50A54C405D}|\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|\\\\iscsi\\profstud\\leymanse\\desktop\\123\\oop_fundamentals_library\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF82EFA-4C42-2E7F-A597-1B50A54C405D}|\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|\\\\iscsi\\profstud\\leymanse\\desktop\\123\\oop_fundamentals_library\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF82EFA-4C42-2E7F-A597-1B50A54C405D}|\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|\\\\iscsi\\profstud\\leymanse\\desktop\\123\\oop_fundamentals_library\\ipayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF82EFA-4C42-2E7F-A597-1B50A54C405D}|\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|\\\\iscsi\\profstud\\leymanse\\desktop\\123\\oop_fundamentals_library\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF82EFA-4C42-2E7F-A597-1B50A54C405D}|\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\OOP_Fundamentals_Library.csproj|\\\\iscsi\\profstud\\leymanse\\desktop\\123\\oop_fundamentals_library\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\leymanse\\source\\repos\\consoleapp1\\consoleapp1\\consoleapp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\leymanse\\source\\repos\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\ReportService.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:54:57.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayrollSystem.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\PayrollSystem.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\PayrollSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:54:21.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\Manager.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:53:38.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPayable.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\IPayable.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\IPayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:53:38.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\Customer.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:52:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\Employee.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:47:14.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\Person.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\LeymanSE\\Desktop\\123\\OOP_Fundamentals_Library\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:47:02.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\LeymanSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-12T03:43:30.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleApp1.cs",
+              "DocumentMoniker": "C:\\Users\\LeymanSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.cs",
+              "ToolTip": "C:\\Users\\LeymanSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.cs",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvx8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:43:24.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
